@@ -1,0 +1,47 @@
+.form-control {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#locationButt {
+    background-color: green;
+    border-color: green;
+}
+
+.city {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+#temperature {
+    font-size: 60px;
+    font-weight: 500;
+}
+
+.unit {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1px;
+    position: relative;
+    top: -28px
+}
+
+#hours {
+    text-align: center;
+}
+
+#Days {
+    text-align: center;
+}
+
+#otherIndicators {
+    color: rgb(109, 107, 107);
+}
+
+.DateTime {
+    color: rgb(109, 107, 107);
+}
+
+#dateTime {
+    color: rgb(125, 121, 121);
+}
